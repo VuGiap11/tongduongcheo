@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\bin\Debug\tongduongcheomatranvuong.exe.config
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\bin\Debug\tongduongcheomatranvuong.exe
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\bin\Debug\tongduongcheomatranvuong.pdb
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\obj\Debug\tongduongcheomatranvuong.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\obj\Debug\tongduongcheomatranvuong.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\obj\Debug\tongduongcheomatranvuong.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\obj\Debug\tongduongcheomatranvuong.exe
+C:\Users\tuan\Desktop\tongduongcheomatranvuong\obj\Debug\tongduongcheomatranvuong.pdb
